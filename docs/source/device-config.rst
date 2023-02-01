@@ -13,7 +13,7 @@ instance:
 
 One may also show or change several settings at once, and/or show or
 update them on several devices at once. (See also:
-```walt help show device-sets`` <device-sets.md>`__) For instance:
+:doc:`walt help show device-sets<device-sets>`) For instance:
 
 ::
 
